@@ -1,0 +1,18 @@
+{
+  "scope": "Public artifact files only; private source metadata omitted",
+  "files": {
+    "INTEGRATION.md": "722e107559aeab5545839842240253c2ad1a1a76fef66443b3240715d183d457",
+    "LICENSES/LiveKit-Apache-2.0.txt": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+    "LICENSES/LiveKit-NOTICE.txt": "6d0f7c5e0deb284362296c5da110dd353831da2e67ca77cb5abc051b951b0fac",
+    "LICENSES/OpenAI-Apache-2.0.txt": "636eb7d79da9bb6d515a4b3fd417aa26679eb3cf16396ddab4bc55fa74e616e4",
+    "LICENSES/Pipecat-BSD-2-Clause.txt": "e31a733ecb79cbffafd5474e964e5eca15e0a0876a42b1d7253b51b198eb61aa",
+    "LICENSE_REVIEW.md": "a09b24d96eaa73e8592563845a1847ad2df9085beed756ce3641aa2ac0272af6",
+    "README.md": "8e84a89da24135bd0efe1f58d96132f03773ef00a61ec6949fb77c5c613b95d9",
+    "SOURCES.md": "246998174dc6a834b82f4152f84c3931d19c6e92184ae6c52defb295a993b94a",
+    "VERIFICATION.md": "3051e4060c1a4a343c38135d399f85f3be93c16d848079ccf9142810a1ac3608",
+    "code/ChineseShortSpeech.swift": "8a9b7b69843c05296af3477baf9c64d3000cddcf24d7114495a52af8d3b529be",
+    "code/ShortSpeechChecks.swift": "38091077f529c9de38d5da1d6de44a7b62bd7c7fd0e119b7bcc3bad9376a0a5c",
+    "code/check_contracts.py": "6927c71a142da56df82250f7f0656e0678b6018f48b652c430829e1e58f5610f",
+    "code/silence_contract.py": "2967d46ecd225c59705e8d6d10b45f97c1a98444a2b8b7c008d36f4ecf50d395"
+  }
+}
